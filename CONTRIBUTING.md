@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+  #### Name: [Tiyasha Samanta](https://github.com/ts4475)
+
+- Place: Barddhaman, West Bengal, India
+- Bio: Upcoming Associate Engineer at Brillio
+- GitHub: [ts4475](https://github.com/ts4475)
+
